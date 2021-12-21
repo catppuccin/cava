@@ -5,9 +5,9 @@
 <p align="center">Warm mid-tone dark theme to show off your vibrant self!</p>
 
 <p align="center">
+https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-b661-4699e7f8c4c6.mp4
 </p>
 
-https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-b661-4699e7f8c4c6.mp4
 
 ## Usage
 
