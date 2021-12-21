@@ -1,12 +1,10 @@
 <p align="center">
-  <h2 align="center">😸 Catppuccin for AwesomeApp</h2>
+  <h2 align="center">😸 Catppuccin for Cava</h2>
 </p>
 
-<p align="center">Warm mid-tone dark theme to show off your vibrant self!</p>
+<p align="center">Vibrant pastel theme for the high-spirited!</p>
 
-<p align="center">
 https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-b661-4699e7f8c4c6.mp4
-</p>
 
 
 ## Usage
