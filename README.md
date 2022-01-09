@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-
 
 ## Usage
 
-1. Copy the contets of [catppuccin.cava](https://github.com/catppuccin/cava/blob/main/catppuccin.cava) into your Cava config file (usually located at: `$HOME/.config/cava/`)
+1. Copy the contents of [catppuccin.cava](https://github.com/catppuccin/cava/blob/main/catppuccin.cava) into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings
 2. Reload cava if it was already playing
 
 ## 💝 Thanks to
