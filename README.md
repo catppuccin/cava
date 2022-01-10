@@ -1,9 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
-  <h2 align="center">Catppuccin for Cava</h2>
-</p>
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for Cava
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-<p align="center">Vibrant pastel theme for the high-spirited!</p>
+<p align="center">
+    <a href="https://github.com/catppuccin/cava/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/cava?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/cava/issues"><img src="https://img.shields.io/github/issues/catppuccin/cava?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/cava/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/cava?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+</p>
 
 https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-b661-4699e7f8c4c6.mp4
 
@@ -14,4 +20,4 @@ https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-
 
 ## 💝 Thanks to
 
-- [Pocco81](https://github.com/Pocco81)
+-   [Pocco81](https://github.com/Pocco81)
