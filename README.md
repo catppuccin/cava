@@ -11,7 +11,9 @@
     <a href="https://github.com/catppuccin/cava/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/cava?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-https://user-images.githubusercontent.com/58336662/147009539-b5604e70-6942-4ecd-b661-4699e7f8c4c6.mp4
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/cava/main/assets/screenshot.webp" />
+</p>
 
 ## Usage
 
