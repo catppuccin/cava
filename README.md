@@ -18,8 +18,42 @@
 ## Usage
 
 1. Choose your flavour.
-2. Copy the contents of _flavour_.cava into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings.
+2. Copy the contents of _flavour_.cava into your Cava config file, as specified in [Cava's README](https://github.com/karlstav/cava#configuration). Typically, the config file is located at: `~/.config/cava/`. Ensure you replace the existing gradient settings.
+
+> [!WARNING]
+> Running any of the commands below may overwrite your existing cava configuration file.
+
+  - Latte
+      ```sh
+      wget -O ~/.config/cava/config https://github.com/catppuccin/cava/raw/main/latte.cava
+      ```
+
+  - Frappé
+      ```sh
+      wget -O ~/.config/cava/config https://github.com/catppuccin/cava/raw/main/frappe.cava
+      ```
+
+  - Macchiato
+      ```sh
+      wget -O ~/.config/cava/config https://github.com/catppuccin/cava/raw/main/macchiato.cava
+      ```
+
+  - Mocha
+      ```sh
+      wget -O ~/.config/cava/config https://github.com/catppuccin/cava/raw/main/mocha.cava
+      ```
+
 3. Reload cava if it was already playing.
+
+## 🙋 FAQ
+
+- Q: **_"Error loading config. Only 'ncurses' output method supports HTML colors. "_**\
+  A: As of version 0.7.0, ncurses is no longer the default output method. Adjust this in your config file.
+
+  ```ini
+  [output]
+  method = ncurses
+  ```
 
 ## 💝 Thanks to
 
