@@ -1,4 +1,6 @@
 [color]
+background = '#303446'
+
 gradient = 1
 
 gradient_color_1 = '#81c8be'
