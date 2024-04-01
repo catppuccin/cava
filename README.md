@@ -18,7 +18,7 @@
 ## Usage
 
 1. Choose your flavour.
-2. Copy the contents of _flavour_.cava into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings.
+2. Copy the contents of `themes/<flavour>.cava` into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings.
 3. Reload cava if it was already playing.
 
 ## 💝 Thanks to
