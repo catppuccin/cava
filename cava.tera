@@ -1,0 +1,19 @@
+---
+whiskers:
+  version: 2.0.0
+  matrix:
+    - flavor
+  filename: "themes/{{ flavor.identifier }}.cava"
+---
+{%- set palette = flavor.colors -%}
+[color]
+gradient = 1
+
+gradient_color_1 = '#{{ palette.teal.hex }}'
+gradient_color_2 = '#{{ palette.sky.hex }}'
+gradient_color_3 = '#{{ palette.sapphire.hex }}'
+gradient_color_4 = '#{{ palette.blue.hex }}'
+gradient_color_5 = '#{{ palette.mauve.hex }}'
+gradient_color_6 = '#{{ palette.pink.hex }}'
+gradient_color_7 = '#{{ palette.maroon.hex }}'
+gradient_color_8 = '#{{ palette.red.hex }}'
