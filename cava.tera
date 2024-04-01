@@ -7,6 +7,8 @@ whiskers:
 ---
 {%- set palette = flavor.colors -%}
 [color]
+background = '#{{ palette.base.hex }}'
+
 gradient = 1
 
 gradient_color_1 = '#{{ palette.teal.hex }}'
