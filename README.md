@@ -17,9 +17,10 @@
 
 ## Usage
 
-1. Choose your flavour.
-2. Copy the contents of `themes/<flavour>.cava` into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings.
-3. Reload cava if it was already playing.
+1. Choose your flavor.
+2. Choose your background variant: opaque or transparent.
+3. Copy the contents of `themes/<flavor>.cava` or `themes/<flavor>-transparent.cava` into your Cava config file (usually located at: `$HOME/.config/cava/`), replacing the existing gradient settings.
+4. Reload cava if it was already playing.
 
 ## 💝 Thanks to
 
